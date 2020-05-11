@@ -9,5 +9,8 @@ https://www.kaggle.com/wcukierski/enron-email-dataset
 http://bailando.sims.berkeley.edu/enron/enron_categories.txt
 http://bailando.sims.berkeley.edu/enron/enron_with_categories.tar.gz
 
+# For Description on categories 
+https://github.com/brianray/data.world-scripts/blob/master/enron_email_script.ipynb
+
 
 #Play with the Notebook
